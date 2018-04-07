@@ -1,0 +1,6 @@
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\bin\Debug\ClassHashtable.dll
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\bin\Debug\ClassHashtable.pdb
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\obj\Debug\ClassHashtable.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\obj\Debug\ClassHashtable.dll
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\obj\Debug\ClassHashtable.pdb
+C:\Users\vlad1\Desktop\HashTable\HashTable\ClassHashtable\obj\Debug\ClassHashtable.csprojResolveAssemblyReference.cache

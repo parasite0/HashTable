@@ -1,0 +1,10 @@
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\bin\Debug\HashTable.exe
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\bin\Debug\HashTable.pdb
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\bin\Debug\ClassHashtable.dll
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\bin\Debug\ClassHashtable.pdb
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\obj\Debug\HashTable.csproj.CopyComplete
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\obj\Debug\HashTable.exe
+C:\Users\vlad1\Desktop\HashTable\HashTable\HashTable\obj\Debug\HashTable.pdb
